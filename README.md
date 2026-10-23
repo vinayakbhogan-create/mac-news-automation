@@ -45,6 +45,7 @@ The optimization objective was to reduce unnecessary processing and token consum
 
 The accompanying technical documentation describes the optimization approach and the evidence needed to validate the results.
 
+Performance optimization: The pipeline currently completes successful runs in approximately 20–22 minutes in the examples shown. During development, I optimized the workflow to reduce execution time and unnecessary AI token consumption. Historical screenshots of the original execution time are unavailable, so the earlier baseline is not independently documented.
 ## Engineering Approach
 
 My approach combines business analysis, solution architecture, workflow engineering, and iterative optimization.
